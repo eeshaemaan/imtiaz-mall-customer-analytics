@@ -1,6 +1,3 @@
-# imtiaz-mall-customer-analytics
-Customer analytics project for electronics section - includes EDA, regression, classification, and clustering
-
 # Imtiaz Mall Customer Analytics - Electronics Section
 
 ## Project Overview
